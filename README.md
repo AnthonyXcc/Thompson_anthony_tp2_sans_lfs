@@ -9,3 +9,8 @@ abilité comme double saut, sprint, graple
 premier lvl gagne sprint pour avoir une clé, utilise la clé pour entrer dans une tour. ambiance de foret le jour.
 
 deuxieme lvl grimper la tour avec un graple(pas certain) et un double jump pour ouvrir un coffre et finir le jeu ambience sombre, tour en roche.
+
+
+l'inspiration que j'ai eu pour le tp2 viens surtout de jeu Metroivania où le joueur doit trouver de nouvelles abileté pour progresser dansle jeu.
+mon jeu fonctionne de la même façon, les objectif secondaire sont des abilités de mouvement qui te permet de te rendre a l'objectif final.
+je suis aller avec une thématique fantasique ou mon personnage ne respecte pas les restrictions du monde réel et où la magie existe.
